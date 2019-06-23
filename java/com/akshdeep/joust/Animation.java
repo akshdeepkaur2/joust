@@ -1,4 +1,5 @@
-package com.example.helicope;
+package com.akshdeep.joust;
+
 
 import android.graphics.Bitmap;
 
